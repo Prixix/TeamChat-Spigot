@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TeamChat-Spigot:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66e68135-a673-4fcc-8a94-9cb6651201fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DarkyenusTimeTracker">
+    <option name="totalTimeSeconds" value="3570" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cB1qcdAffDJleY6SS10of9CGCD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TeamChat-Spigot build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66e68135-a673-4fcc-8a94-9cb6651201fd" name="Default Changelist" comment="" />
+      <created>1589987364574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589987364574</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589989259157">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/-1280.44.1280.994@0.0.1920.1050" timestamp="1589989259157" />
+    <state x="765" y="227" key="#com.intellij.ide.util.MemberChooser" timestamp="1589990698896">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="227" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/-1280.44.1280.994@0.0.1920.1050" timestamp="1589990698896" />
+    <state x="711" y="375" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589989318630">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="711" y="375" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1050/-1280.44.1280.994@0.0.1920.1050" timestamp="1589989318630" />
+    <state x="714" y="366" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1589989125478">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="714" y="366" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1050/-1280.44.1280.994@0.0.1920.1050" timestamp="1589989125478" />
+    <state x="461" y="166" key="SettingsEditor" timestamp="1589989331522">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="166" key="SettingsEditor/0.0.1920.1050/-1280.44.1280.994@0.0.1920.1050" timestamp="1589989331522" />
+  </component>
+</project>

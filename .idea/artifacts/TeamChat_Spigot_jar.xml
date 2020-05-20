@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TeamChat-Spigot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TeamChat_Spigot_jar</output-path>
+    <root id="archive" name="TeamChat-Spigot.jar">
+      <element id="module-output" name="TeamChat-Spigot" />
+    </root>
+  </artifact>
+</component>

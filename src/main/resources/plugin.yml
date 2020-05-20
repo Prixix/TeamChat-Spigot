@@ -1,0 +1,10 @@
+name: TeamChat
+version: ${project.version}
+main: de.prixix.teamchat.TeamChat
+authors: [Prixix]
+description: Chat with your teammates!
+website: https://www.spigotmc.org/resources/teamchat-chat-with-your-teammates.66565/
+
+commands:
+  tc:
+  teamchat:
